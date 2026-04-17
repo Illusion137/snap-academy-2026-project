@@ -1,70 +1,162 @@
 html,
 body {
-  margin: 0;
-  padding: 0;
+	margin: 0;
+	padding: 0;
+	font-family: "Spinnaker", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	background-color: #121212;
+	color: #DfDfAf;
 }
 
 .main-header {
-  background-color: rgba(0, 0, 0, 0.3);
-  padding-bottom: 10px;
+	background-color: rgba(0, 0, 0, 0.1);
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 .title {
-  text-align: center;
-  margin: 0;
-  font-size: 8em;
-  font-family: "Helvetica";
-  font-weight: normal;
-  color: white;
+	text-align: center;
+	margin: 0;
+	font-size: 3em;
 }
 
 #card-container {
-  display: flex;
-  justify-content: center;
-  margin: 20px;
+	display: flex;
+	justify-content: center;
+	margin: 20px;
+	flex-wrap: wrap;
+	gap: 5px;
+}
+
+.card-wrapper {
+	margin: 0px;
+	padding: 0px;
+	height: 220px;
+}
+
+.card-dex-no {
+	z-index: 1;
+	font-size: 11px;
+	text-align: center;
+	position: relative;
+	top: 40px;
+	left: 278px;
+	background-color: #3148af;
+	width: 25px;
+	height: 12px;
+	padding: 5px;
+	border-radius: 10px;
 }
 
 .card {
-  width: 300px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  margin: 5px;
+	display: grid;
+	width: 300px;
+	height: 190px;
+	border: 1px solid #DfDfAf70;
+	border-radius: 5px;
+	box-shadow: 0 2px 4px rgba(255, 255, 255, 0.4);
+	grid-template-areas: "gif name-type"
+						"sdata stats";
+	grid-template-columns: 100px 1fr;
+	grid-template-rows: 100px 1fr;
+	padding: 10px;
 }
 
-.card-content {
-  padding: 20px;
-  font-family: "Verdana";
-  color: #777;
+.card-gif-container {
+	height: 100px;
+	display: flex;
+	justify-content: center;
 }
 
-.card-content h2 {
-  margin-top: 0;
-  font-size: 20px;
+.card-gif {
+	flex: 1;
+	margin-top: 10px;
+	margin-left: 5px;
+	object-fit: contain;
+	image-rendering: pixelated;
+	filter: drop-shadow(2px 2px 1px #DfDfAf50);
 }
 
-.card img {
-  width: 100%;
-  height: auto;
+.card-name-type
+{
+	position: relative;
+	left: 20px;
+	display: flex;
+	flex-direction: column;
 }
 
-.footer {
-  display: flex;
-  justify-content: center;
-  background-color: rgba(0, 0, 0, 0.3);
-  padding: 10px;
+.card-name {
+	text-wrap-mode: wrap;
+	margin-bottom: 0px;
 }
 
-button {
-  text-align: center;
-  background-color: #666;
-  border: none;
-  padding-left: 10px;
-  padding-right: 10px;
-  height: 40px;
-  border-radius: 10px;
-  color: white;
-  font-size: 22px;
-  cursor: pointer;
-  margin: 5px;
+.card-attribute-group {
+	margin-top: 15px;
+	margin-left: 5px;
 }
+
+.card-attribute {
+	font-size: 13.2px;
+	margin-top: 3px;
+	margin-bottom: 0px;
+}
+
+.card-types-list {
+	display: flex;
+	flex-direction: row;
+	gap: 2px;
+}
+
+.card-type {
+	background: #080808;
+	border: 1px solid #ffffff80;
+	border-radius: 4px;
+	margin-top: 6px;
+	padding: 1px;
+	text-shadow: 0px 1px 2px #000000A0;
+}
+.card-type.bug { background: linear-gradient(#a8b820,#8d9a1b); }
+.card-type.dark { background: linear-gradient(#3b2911,#2a1809); }
+.card-type.dragon { background: linear-gradient(#4920b8,#381794); }
+.card-type.electric { background: linear-gradient(#ffe417,rgb(209, 191, 24)); }
+.card-type.fighting { background: linear-gradient(#c95f21,#ad4c15); }
+.card-type.fire { background: linear-gradient(#e42e2e,#c31f1f); }
+.card-type.flying { background: linear-gradient(#b7a0cb,#917aa6); }
+.card-type.ghost { background: linear-gradient(#715392,#543871); }
+.card-type.grass { background: linear-gradient(#2fb820,#3d9a1b); }
+.card-type.ground { background: linear-gradient(#b49963,#977e4b); }
+.card-type.ice { background: linear-gradient(#62c8b2,#47a18e); }
+.card-type.normal { background: linear-gradient(#cbbbbb,#938787); }
+.card-type.poison { background: linear-gradient(#8320b8,#691b9a); }
+.card-type.psychic { background: linear-gradient(#c140b4,#a82d9c); }
+.card-type.rock { background: linear-gradient(#ad8a3b,#8b6d27); }
+.card-type.steel { background: linear-gradient(#a5a5a5,#737373); }
+.card-type.water { background: linear-gradient(#4b66de,#3148af); }
+
+.card-stats-list {
+	position: relative;
+	left: 20px;
+	display: flex;
+	flex-direction: column;
+}
+
+.card-stats-group {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+	gap: 5px;
+	height: 15px;
+	font-size: 12px;
+}
+
+.stat {
+	height: 10px;
+	border-radius: 1px;
+}
+
+.stat.vbad { background: linear-gradient(#ff6868, #ff2727,#dc0000); }
+.stat.valright { background: linear-gradient(#fff45f,#febc14); }
+.stat.vgood { background: linear-gradient(#89ff68,#2fc31f); }
+.stat.vbest { background: linear-gradient(#59ffe6,#1fa0c3); }
