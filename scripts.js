@@ -32,6 +32,9 @@ const pokemons = [
             },
             {
                 "spd": 39
+            },
+            {
+                "spe": 91
             }
         ],
         "height": 0.2,
@@ -67,6 +70,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 0.6,
@@ -100,6 +106,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 130
             }
         ],
         "height": 0.9,
@@ -135,6 +144,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 1,
@@ -168,6 +180,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 75
             }
         ],
         "height": 1.7,
@@ -204,6 +219,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 110
             }
         ],
         "height": 1.1,
@@ -240,6 +258,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 1.6,
@@ -276,6 +297,9 @@ const pokemons = [
             },
             {
                 "spd": 72
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 2.6,
@@ -312,6 +336,9 @@ const pokemons = [
             },
             {
                 "spd": 74
+            },
+            {
+                "spe": 105
             }
         ],
         "height": 0.7,
@@ -349,6 +376,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 1,
@@ -383,6 +413,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 110
             }
         ],
         "height": 2,
@@ -419,6 +452,9 @@ const pokemons = [
             },
             {
                 "spd": 64
+            },
+            {
+                "spe": 121
             }
         ],
         "height": 1.7,
@@ -456,6 +492,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 0.5,
@@ -491,6 +530,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 1.27,
@@ -527,6 +569,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 51
             }
         ],
         "height": 0.3,
@@ -561,6 +606,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 81
             }
         ],
         "height": 1.65,
@@ -597,6 +645,9 @@ const pokemons = [
             },
             {
                 "spd": 105
+            },
+            {
+                "spe": 76
             }
         ],
         "height": 1.2,
@@ -634,6 +685,9 @@ const pokemons = [
             },
             {
                 "spd": 30
+            },
+            {
+                "spe": 44
             }
         ],
         "height": 0.5,
@@ -669,6 +723,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 54
             }
         ],
         "height": 1.3,
@@ -704,6 +761,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 94
             }
         ],
         "height": 2.1,
@@ -741,6 +801,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 1.8,
@@ -775,6 +838,9 @@ const pokemons = [
             },
             {
                 "spd": 130
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 5.5,
@@ -811,6 +877,9 @@ const pokemons = [
             },
             {
                 "spd": 110
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 1.8,
@@ -848,6 +917,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 88
             }
         ],
         "height": 0.76,
@@ -883,6 +955,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 118
             }
         ],
         "height": 1.7,
@@ -920,6 +995,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.6,
@@ -955,6 +1033,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 1.4,
@@ -990,6 +1071,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 75
             }
         ],
         "height": 1.5,
@@ -1022,6 +1106,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.5,
@@ -1055,6 +1142,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.5,
@@ -1088,6 +1178,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.5,
@@ -1121,6 +1214,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.5,
@@ -1154,6 +1250,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.5,
@@ -1186,6 +1285,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.5,
@@ -1219,6 +1321,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.5,
@@ -1251,6 +1356,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.5,
@@ -1283,6 +1391,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.5,
@@ -1315,6 +1426,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.5,
@@ -1347,6 +1461,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.5,
@@ -1380,6 +1497,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.5,
@@ -1413,6 +1533,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.5,
@@ -1446,6 +1569,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.5,
@@ -1478,6 +1604,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.5,
@@ -1510,6 +1639,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.5,
@@ -1543,6 +1675,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 2.1,
@@ -1580,6 +1715,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 0.5,
@@ -1614,6 +1752,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 0.6,
@@ -1648,6 +1789,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 1.1,
@@ -1683,6 +1827,9 @@ const pokemons = [
             },
             {
                 "spd": 52
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 1.3,
@@ -1717,6 +1864,9 @@ const pokemons = [
             },
             {
                 "spd": 34
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 0.1,
@@ -1752,6 +1902,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 75
             }
         ],
         "height": 0.4,
@@ -1786,6 +1939,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 105
             }
         ],
         "height": 0.9,
@@ -1823,6 +1979,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 0.3,
@@ -1856,6 +2015,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 0.7,
@@ -1892,6 +2054,9 @@ const pokemons = [
             },
             {
                 "spd": 20
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 0.3,
@@ -1928,6 +2093,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 0.5,
@@ -1964,6 +2132,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 140
             }
         ],
         "height": 1.2,
@@ -1999,6 +2170,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 0.4,
@@ -2035,6 +2209,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 2,
@@ -2072,6 +2249,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 35
             }
         ],
         "height": 0.4,
@@ -2108,6 +2288,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 1,
@@ -2144,6 +2327,9 @@ const pokemons = [
             },
             {
                 "spd": 110
+            },
+            {
+                "spe": 87
             }
         ],
         "height": 1.5,
@@ -2180,6 +2366,9 @@ const pokemons = [
             },
             {
                 "spd": 110
+            },
+            {
+                "spe": 76
             }
         ],
         "height": 1.4,
@@ -2216,6 +2405,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 1.2,
@@ -2250,6 +2442,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 35
             }
         ],
         "height": 0.6,
@@ -2284,6 +2479,9 @@ const pokemons = [
             },
             {
                 "spd": 25
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 0.7,
@@ -2318,6 +2516,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 1.2,
@@ -2354,6 +2555,9 @@ const pokemons = [
             },
             {
                 "spd": 30
+            },
+            {
+                "spe": 25
             }
         ],
         "height": 1,
@@ -2391,6 +2595,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 1.9,
@@ -2428,6 +2635,9 @@ const pokemons = [
             },
             {
                 "spd": 105
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 1.1,
@@ -2464,6 +2674,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 1,
@@ -2500,6 +2713,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 2.2,
@@ -2536,6 +2752,9 @@ const pokemons = [
             },
             {
                 "spd": 25
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.4,
@@ -2572,6 +2791,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 1.2,
@@ -2608,6 +2830,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 63
             }
         ],
         "height": 0.6,
@@ -2644,6 +2869,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 68
             }
         ],
         "height": 1.3,
@@ -2679,6 +2907,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 1.1,
@@ -2716,6 +2947,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 0.8,
@@ -2752,6 +2986,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 115
             }
         ],
         "height": 1.1,
@@ -2789,6 +3026,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 1.3,
@@ -2825,6 +3065,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 105
             }
         ],
         "height": 1.5,
@@ -2862,6 +3105,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 1.4,
@@ -2898,6 +3144,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 105
             }
         ],
         "height": 1.1,
@@ -2933,6 +3182,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 93
             }
         ],
         "height": 1.3,
@@ -2969,6 +3221,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 1.5,
@@ -3005,6 +3260,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 110
             }
         ],
         "height": 1.4,
@@ -3040,6 +3298,9 @@ const pokemons = [
             },
             {
                 "spd": 20
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 0.9,
@@ -3075,6 +3336,9 @@ const pokemons = [
             },
             {
                 "spd": 20
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 0.3,
@@ -3111,6 +3375,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 81
             }
         ],
         "height": 6.5,
@@ -3148,6 +3415,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 2.5,
@@ -3184,6 +3454,9 @@ const pokemons = [
             },
             {
                 "spd": 48
+            },
+            {
+                "spe": 48
             }
         ],
         "height": 0.3,
@@ -3220,6 +3493,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 0.3,
@@ -3255,6 +3531,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 1,
@@ -3290,6 +3569,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 130
             }
         ],
         "height": 0.8,
@@ -3325,6 +3607,9 @@ const pokemons = [
             },
             {
                 "spd": 110
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 0.9,
@@ -3361,6 +3646,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 0.8,
@@ -3397,6 +3685,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 35
             }
         ],
         "height": 0.4,
@@ -3434,6 +3725,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 1,
@@ -3469,6 +3763,9 @@ const pokemons = [
             },
             {
                 "spd": 25
+            },
+            {
+                "spe": 35
             }
         ],
         "height": 0.6,
@@ -3506,6 +3803,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 0.5,
@@ -3543,6 +3843,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 1.3,
@@ -3580,6 +3883,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 130
             }
         ],
         "height": 1.8,
@@ -3617,6 +3923,9 @@ const pokemons = [
             },
             {
                 "spd": 110
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 2.1,
@@ -3652,6 +3961,9 @@ const pokemons = [
             },
             {
                 "spd": 125
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 1.7,
@@ -3688,6 +4000,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.6,
@@ -3724,6 +4039,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 2,
@@ -3760,6 +4078,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 1.8,
@@ -3795,6 +4116,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 4,
@@ -3830,6 +4154,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 2.2,
@@ -3866,6 +4193,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 75
             }
         ],
         "height": 1,
@@ -3902,6 +4232,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 130
             }
         ],
         "height": 2,
@@ -3936,6 +4269,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 0.4,
@@ -3971,6 +4307,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 0.9,
@@ -4006,6 +4345,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 1.2,
@@ -4041,6 +4383,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 1.8,
@@ -4076,6 +4421,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 0.5,
@@ -4111,6 +4459,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 0.9,
@@ -4146,6 +4497,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.7,
@@ -4181,6 +4535,9 @@ const pokemons = [
             },
             {
                 "spd": 48
+            },
+            {
+                "spe": 43
             }
         ],
         "height": 0.6,
@@ -4216,6 +4573,9 @@ const pokemons = [
             },
             {
                 "spd": 63
+            },
+            {
+                "spe": 58
             }
         ],
         "height": 1.1,
@@ -4252,6 +4612,9 @@ const pokemons = [
             },
             {
                 "spd": 35
+            },
+            {
+                "spe": 56
             }
         ],
         "height": 0.3,
@@ -4288,6 +4651,9 @@ const pokemons = [
             },
             {
                 "spd": 83
+            },
+            {
+                "spe": 78
             }
         ],
         "height": 2.3,
@@ -4324,6 +4690,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 20
             }
         ],
         "height": 0.8,
@@ -4360,6 +4729,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 1.8,
@@ -4396,6 +4768,9 @@ const pokemons = [
             },
             {
                 "spd": 56
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 0.7,
@@ -4433,6 +4808,9 @@ const pokemons = [
             },
             {
                 "spd": 96
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 1.6,
@@ -4470,6 +4848,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 1,
@@ -4507,6 +4888,9 @@ const pokemons = [
             },
             {
                 "spd": 110
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 1.4,
@@ -4544,6 +4928,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 0.5,
@@ -4581,6 +4968,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 1.1,
@@ -4617,6 +5007,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 130
             }
         ],
         "height": 1.8,
@@ -4654,6 +5047,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 71
             }
         ],
         "height": 1.1,
@@ -4691,6 +5087,9 @@ const pokemons = [
             },
             {
                 "spd": 56
+            },
+            {
+                "spe": 67
             }
         ],
         "height": 0.5,
@@ -4728,6 +5127,9 @@ const pokemons = [
             },
             {
                 "spd": 76
+            },
+            {
+                "spe": 67
             }
         ],
         "height": 1.2,
@@ -4764,6 +5166,9 @@ const pokemons = [
             },
             {
                 "spd": 35
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.3,
@@ -4800,6 +5205,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 15
             }
         ],
         "height": 0.3,
@@ -4835,6 +5243,9 @@ const pokemons = [
             },
             {
                 "spd": 20
+            },
+            {
+                "spe": 15
             }
         ],
         "height": 0.3,
@@ -4871,6 +5282,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 20
             }
         ],
         "height": 0.3,
@@ -4907,6 +5321,9 @@ const pokemons = [
             },
             {
                 "spd": 105
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 0.6,
@@ -4944,6 +5361,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 0.2,
@@ -4981,6 +5401,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 1.5,
@@ -5017,6 +5440,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 35
             }
         ],
         "height": 0.6,
@@ -5053,6 +5479,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 91
             }
         ],
         "height": 1.5,
@@ -5089,6 +5518,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 0.8,
@@ -5124,6 +5556,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 1.4,
@@ -5159,6 +5594,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 0.4,
@@ -5195,6 +5633,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 0.4,
@@ -5231,6 +5672,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 0.8,
@@ -5267,6 +5711,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 1.2,
@@ -5303,6 +5750,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 1.1,
@@ -5339,6 +5789,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 0.4,
@@ -5376,6 +5829,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 0.6,
@@ -5413,6 +5869,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 110
             }
         ],
         "height": 0.8,
@@ -5450,6 +5909,9 @@ const pokemons = [
             },
             {
                 "spd": 35
+            },
+            {
+                "spe": 72
             }
         ],
         "height": 0.3,
@@ -5486,6 +5948,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 0.8,
@@ -5522,6 +5987,9 @@ const pokemons = [
             },
             {
                 "spd": 30
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 0.3,
@@ -5558,6 +6026,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 0.8,
@@ -5594,6 +6065,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 1.2,
@@ -5631,6 +6105,9 @@ const pokemons = [
             },
             {
                 "spd": 25
+            },
+            {
+                "spe": 15
             }
         ],
         "height": 0.4,
@@ -5668,6 +6145,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 35
             }
         ],
         "height": 1.4,
@@ -5704,6 +6184,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 110
             }
         ],
         "height": 0.9,
@@ -5739,6 +6222,9 @@ const pokemons = [
             },
             {
                 "spd": 130
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 1,
@@ -5775,6 +6261,9 @@ const pokemons = [
             },
             {
                 "spd": 42
+            },
+            {
+                "spe": 91
             }
         ],
         "height": 0.5,
@@ -5812,6 +6301,9 @@ const pokemons = [
             },
             {
                 "spd": 110
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 2,
@@ -5848,6 +6340,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 1,
@@ -5885,6 +6380,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 97
             }
         ],
         "height": 0.7,
@@ -5919,6 +6417,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 0.7,
@@ -5953,6 +6454,9 @@ const pokemons = [
             },
             {
                 "spd": 48
+            },
+            {
+                "spe": 48
             }
         ],
         "height": 0.5,
@@ -5988,6 +6492,9 @@ const pokemons = [
             },
             {
                 "spd": 58
+            },
+            {
+                "spe": 33
             }
         ],
         "height": 1.3,
@@ -6024,6 +6531,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 1.5,
@@ -6060,6 +6570,9 @@ const pokemons = [
             },
             {
                 "spd": 35
+            },
+            {
+                "spe": 15
             }
         ],
         "height": 0.6,
@@ -6095,6 +6608,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 1.2,
@@ -6132,6 +6648,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 1.5,
@@ -6168,6 +6687,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 1.1,
@@ -6205,6 +6727,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 9.2,
@@ -6242,6 +6767,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 0.6,
@@ -6277,6 +6805,9 @@ const pokemons = [
             },
             {
                 "spd": 31
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 0.3,
@@ -6314,6 +6845,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 1.4,
@@ -6350,6 +6884,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 0.5,
@@ -6387,6 +6924,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 1.8,
@@ -6424,6 +6964,9 @@ const pokemons = [
             },
             {
                 "spd": 230
+            },
+            {
+                "spe": 5
             }
         ],
         "height": 0.6,
@@ -6461,6 +7004,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 1.5,
@@ -6498,6 +7044,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 115
             }
         ],
         "height": 0.9,
@@ -6535,6 +7084,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 0.6,
@@ -6571,6 +7123,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 1.8,
@@ -6607,6 +7162,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 20
             }
         ],
         "height": 0.7,
@@ -6643,6 +7201,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 0.8,
@@ -6679,6 +7240,9 @@ const pokemons = [
             },
             {
                 "spd": 61
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.2,
@@ -6716,6 +7280,9 @@ const pokemons = [
             },
             {
                 "spd": 30
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 0.4,
@@ -6753,6 +7320,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 1.1,
@@ -6790,6 +7360,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 35
             }
         ],
         "height": 0.6,
@@ -6827,6 +7400,9 @@ const pokemons = [
             },
             {
                 "spd": 35
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 0.6,
@@ -6863,6 +7439,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 0.9,
@@ -6899,6 +7478,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 75
             }
         ],
         "height": 0.9,
@@ -6936,6 +7518,9 @@ const pokemons = [
             },
             {
                 "spd": 140
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 2.1,
@@ -6973,6 +7558,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 1.7,
@@ -7010,6 +7598,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 0.6,
@@ -7047,6 +7638,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 1.4,
@@ -7084,6 +7678,9 @@ const pokemons = [
             },
             {
                 "spd": 54
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 2,
@@ -7120,6 +7717,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 1.8,
@@ -7156,6 +7756,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 0.5,
@@ -7191,6 +7794,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 1.1,
@@ -7227,6 +7833,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.6,
@@ -7263,6 +7872,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 1.4,
@@ -7299,6 +7911,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 75
             }
         ],
         "height": 1.2,
@@ -7335,6 +7950,9 @@ const pokemons = [
             },
             {
                 "spd": 35
+            },
+            {
+                "spe": 35
             }
         ],
         "height": 0.7,
@@ -7371,6 +7989,9 @@ const pokemons = [
             },
             {
                 "spd": 110
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 1.4,
@@ -7407,6 +8028,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 0.4,
@@ -7443,6 +8067,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 0.6,
@@ -7479,6 +8106,9 @@ const pokemons = [
             },
             {
                 "spd": 79
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 3.5,
@@ -7514,6 +8144,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 83
             }
         ],
         "height": 0.7,
@@ -7550,6 +8183,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.2,
@@ -7586,6 +8222,9 @@ const pokemons = [
             },
             {
                 "spd": 135
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 1.5,
@@ -7621,6 +8260,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 115
             }
         ],
         "height": 1.9,
@@ -7656,6 +8298,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 2.1,
@@ -7691,6 +8336,9 @@ const pokemons = [
             },
             {
                 "spd": 115
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 2,
@@ -7726,6 +8374,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 41
             }
         ],
         "height": 0.6,
@@ -7761,6 +8412,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 51
             }
         ],
         "height": 1.2,
@@ -7797,6 +8451,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 61
             }
         ],
         "height": 2,
@@ -7833,6 +8490,9 @@ const pokemons = [
             },
             {
                 "spd": 154
+            },
+            {
+                "spe": 110
             }
         ],
         "height": 5.2,
@@ -7869,6 +8529,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 0.4,
@@ -7904,6 +8567,9 @@ const pokemons = [
             },
             {
                 "spd": 154
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 3.8,
@@ -7939,6 +8605,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 0.6,
@@ -7975,6 +8644,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 0.5,
@@ -8010,6 +8682,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 0.9,
@@ -8045,6 +8720,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 120
             }
         ],
         "height": 1.7,
@@ -8080,6 +8758,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 0.4,
@@ -8115,6 +8796,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 0.9,
@@ -8151,6 +8835,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 1.9,
@@ -8187,6 +8874,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 0.4,
@@ -8222,6 +8912,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 0.7,
@@ -8258,6 +8951,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 0.8,
@@ -8293,6 +8989,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 1.5,
@@ -8330,6 +9029,9 @@ const pokemons = [
             },
             {
                 "spd": 30
+            },
+            {
+                "spe": 35
             }
         ],
         "height": 0.5,
@@ -8366,6 +9068,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 1,
@@ -8402,6 +9107,9 @@ const pokemons = [
             },
             {
                 "spd": 41
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.4,
@@ -8438,6 +9146,9 @@ const pokemons = [
             },
             {
                 "spd": 61
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 0.5,
@@ -8473,6 +9184,9 @@ const pokemons = [
             },
             {
                 "spd": 30
+            },
+            {
+                "spe": 20
             }
         ],
         "height": 0.3,
@@ -8507,6 +9221,9 @@ const pokemons = [
             },
             {
                 "spd": 25
+            },
+            {
+                "spe": 15
             }
         ],
         "height": 0.6,
@@ -8542,6 +9259,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 1,
@@ -8577,6 +9297,9 @@ const pokemons = [
             },
             {
                 "spd": 25
+            },
+            {
+                "spe": 15
             }
         ],
         "height": 0.7,
@@ -8612,6 +9335,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 1.2,
@@ -8648,6 +9374,9 @@ const pokemons = [
             },
             {
                 "spd": 30
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 0.6,
@@ -8684,6 +9413,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 0.5,
@@ -8721,6 +9453,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 1.2,
@@ -8758,6 +9493,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 1.5,
@@ -8795,6 +9533,9 @@ const pokemons = [
             },
             {
                 "spd": 30
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 0.5,
@@ -8831,6 +9572,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 1,
@@ -8868,6 +9612,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 1.3,
@@ -8904,6 +9651,9 @@ const pokemons = [
             },
             {
                 "spd": 30
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 0.3,
@@ -8940,6 +9690,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 125
             }
         ],
         "height": 0.7,
@@ -8976,6 +9729,9 @@ const pokemons = [
             },
             {
                 "spd": 30
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 0.6,
@@ -9012,6 +9768,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 1.2,
@@ -9048,6 +9807,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 1,
@@ -9084,6 +9846,9 @@ const pokemons = [
             },
             {
                 "spd": 35
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 0.4,
@@ -9120,6 +9885,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 0.8,
@@ -9156,6 +9924,9 @@ const pokemons = [
             },
             {
                 "spd": 115
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 1.6,
@@ -9191,6 +9962,9 @@ const pokemons = [
             },
             {
                 "spd": 52
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 0.5,
@@ -9227,6 +10001,9 @@ const pokemons = [
             },
             {
                 "spd": 82
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.8,
@@ -9264,6 +10041,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 35
             }
         ],
         "height": 0.4,
@@ -9300,6 +10080,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 1.2,
@@ -9335,6 +10118,9 @@ const pokemons = [
             },
             {
                 "spd": 35
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 0.8,
@@ -9369,6 +10155,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 1.4,
@@ -9403,6 +10192,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 2,
@@ -9439,6 +10231,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 41
             }
         ],
         "height": 0.4,
@@ -9474,6 +10269,9 @@ const pokemons = [
             },
             {
                 "spd": 30
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 0.5,
@@ -9510,6 +10308,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 160
             }
         ],
         "height": 0.8,
@@ -9545,6 +10346,9 @@ const pokemons = [
             },
             {
                 "spd": 30
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 0.8,
@@ -9581,6 +10385,9 @@ const pokemons = [
             },
             {
                 "spd": 23
+            },
+            {
+                "spe": 28
             }
         ],
         "height": 0.6,
@@ -9616,6 +10423,9 @@ const pokemons = [
             },
             {
                 "spd": 43
+            },
+            {
+                "spe": 48
             }
         ],
         "height": 1,
@@ -9651,6 +10461,9 @@ const pokemons = [
             },
             {
                 "spd": 63
+            },
+            {
+                "spe": 68
             }
         ],
         "height": 1.5,
@@ -9687,6 +10500,9 @@ const pokemons = [
             },
             {
                 "spd": 30
+            },
+            {
+                "spe": 25
             }
         ],
         "height": 1,
@@ -9723,6 +10539,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 2.3,
@@ -9759,6 +10578,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 20
             }
         ],
         "height": 0.2,
@@ -9795,6 +10617,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 1,
@@ -9830,6 +10655,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 2,
@@ -9867,6 +10695,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 56
             }
         ],
         "height": 0.8,
@@ -9903,6 +10734,9 @@ const pokemons = [
             },
             {
                 "spd": 35
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 0.6,
@@ -9939,6 +10773,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 1.1,
@@ -9975,6 +10812,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 0.5,
@@ -10012,6 +10852,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 0.6,
@@ -10048,6 +10891,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 0.4,
@@ -10085,6 +10931,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 0.9,
@@ -10122,6 +10971,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 2.1,
@@ -10158,6 +11010,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.6,
@@ -10194,6 +11049,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 1.3,
@@ -10231,6 +11089,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 0.6,
@@ -10267,6 +11128,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 76
             }
         ],
         "height": 1.3,
@@ -10304,6 +11168,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 105
             }
         ],
         "height": 1.5,
@@ -10338,6 +11205,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 0.4,
@@ -10372,6 +11242,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 0.4,
@@ -10408,6 +11281,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 0.7,
@@ -10444,6 +11320,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 0.6,
@@ -10480,6 +11359,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 0.3,
@@ -10517,6 +11399,9 @@ const pokemons = [
             },
             {
                 "spd": 53
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 0.4,
@@ -10553,6 +11438,9 @@ const pokemons = [
             },
             {
                 "spd": 83
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 1.7,
@@ -10588,6 +11476,9 @@ const pokemons = [
             },
             {
                 "spd": 20
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 0.8,
@@ -10624,6 +11515,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 1.8,
@@ -10661,6 +11555,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 0.5,
@@ -10697,6 +11594,9 @@ const pokemons = [
             },
             {
                 "spd": 35
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 2,
@@ -10733,6 +11633,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 14.5,
@@ -10769,6 +11672,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 35
             }
         ],
         "height": 0.7,
@@ -10806,6 +11712,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 1.9,
@@ -10842,6 +11751,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 20
             }
         ],
         "height": 0.5,
@@ -10878,6 +11790,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.7,
@@ -10914,6 +11829,9 @@ const pokemons = [
             },
             {
                 "spd": 110
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 0.9,
@@ -10950,6 +11868,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 1.1,
@@ -10986,6 +11907,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 10
             }
         ],
         "height": 0.7,
@@ -11020,6 +11944,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 1.1,
@@ -11057,6 +11984,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 0.9,
@@ -11091,6 +12021,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 2,
@@ -11127,6 +12060,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 35
             }
         ],
         "height": 0.4,
@@ -11162,6 +12098,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 1.3,
@@ -11198,6 +12137,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 0.4,
@@ -11234,6 +12176,9 @@ const pokemons = [
             },
             {
                 "spd": 105
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 1.1,
@@ -11270,6 +12215,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 1.3,
@@ -11305,6 +12253,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 2.7,
@@ -11339,6 +12290,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 1,
@@ -11374,6 +12328,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 1.2,
@@ -11411,6 +12368,9 @@ const pokemons = [
             },
             {
                 "spd": 41
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.4,
@@ -11448,6 +12408,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 1.4,
@@ -11485,6 +12448,9 @@ const pokemons = [
             },
             {
                 "spd": 71
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.9,
@@ -11522,6 +12488,9 @@ const pokemons = [
             },
             {
                 "spd": 35
+            },
+            {
+                "spe": 35
             }
         ],
         "height": 0.6,
@@ -11558,6 +12527,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 1.1,
@@ -11593,6 +12565,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 0.5,
@@ -11628,6 +12603,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 75
             }
         ],
         "height": 1.5,
@@ -11664,6 +12642,9 @@ const pokemons = [
             },
             {
                 "spd": 87
+            },
+            {
+                "spe": 23
             }
         ],
         "height": 1,
@@ -11700,6 +12681,9 @@ const pokemons = [
             },
             {
                 "spd": 107
+            },
+            {
+                "spe": 43
             }
         ],
         "height": 1.5,
@@ -11736,6 +12720,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 75
             }
         ],
         "height": 0.7,
@@ -11772,6 +12759,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 1.5,
@@ -11808,6 +12798,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 0.6,
@@ -11844,6 +12837,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 35
             }
         ],
         "height": 0.6,
@@ -11879,6 +12875,9 @@ const pokemons = [
             },
             {
                 "spd": 125
+            },
+            {
+                "spe": 81
             }
         ],
         "height": 6.2,
@@ -11913,6 +12912,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 0.3,
@@ -11947,6 +12949,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 1,
@@ -11983,6 +12988,9 @@ const pokemons = [
             },
             {
                 "spd": 33
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 0.6,
@@ -12019,6 +13027,9 @@ const pokemons = [
             },
             {
                 "spd": 63
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 1.1,
@@ -12053,6 +13064,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 25
             }
         ],
         "height": 0.8,
@@ -12087,6 +13101,9 @@ const pokemons = [
             },
             {
                 "spd": 130
+            },
+            {
+                "spe": 25
             }
         ],
         "height": 1.6,
@@ -12123,6 +13140,9 @@ const pokemons = [
             },
             {
                 "spd": 87
+            },
+            {
+                "spe": 51
             }
         ],
         "height": 2,
@@ -12158,6 +13178,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 0.6,
@@ -12194,6 +13217,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 75
             }
         ],
         "height": 1.2,
@@ -12230,6 +13256,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 1.3,
@@ -12265,6 +13294,9 @@ const pokemons = [
             },
             {
                 "spd": 48
+            },
+            {
+                "spe": 23
             }
         ],
         "height": 0.6,
@@ -12301,6 +13333,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 0.7,
@@ -12337,6 +13372,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 1.5,
@@ -12373,6 +13411,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 25
             }
         ],
         "height": 0.8,
@@ -12410,6 +13451,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 1.1,
@@ -12447,6 +13491,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 1.4,
@@ -12483,6 +13530,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 32
             }
         ],
         "height": 0.4,
@@ -12518,6 +13568,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 52
             }
         ],
         "height": 1.7,
@@ -12553,6 +13606,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 52
             }
         ],
         "height": 1.8,
@@ -12589,6 +13645,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 1,
@@ -12625,6 +13684,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 0.6,
@@ -12660,6 +13722,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 97
             }
         ],
         "height": 0.6,
@@ -12695,6 +13760,9 @@ const pokemons = [
             },
             {
                 "spd": 30
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 0.6,
@@ -12730,6 +13798,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 1.1,
@@ -12765,6 +13836,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.5,
@@ -12801,6 +13875,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 0.6,
@@ -12837,6 +13914,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 1.2,
@@ -12873,6 +13953,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 1.6,
@@ -12909,6 +13992,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 1.7,
@@ -12944,6 +14030,9 @@ const pokemons = [
             },
             {
                 "spd": 200
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 1.8,
@@ -12979,6 +14068,9 @@ const pokemons = [
             },
             {
                 "spd": 150
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 1.9,
@@ -13014,6 +14106,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.1,
@@ -13048,6 +14143,9 @@ const pokemons = [
             },
             {
                 "spd": 130
+            },
+            {
+                "spe": 110
             }
         ],
         "height": 1.4,
@@ -13083,6 +14181,9 @@ const pokemons = [
             },
             {
                 "spd": 110
+            },
+            {
+                "spe": 110
             }
         ],
         "height": 2,
@@ -13118,6 +14219,9 @@ const pokemons = [
             },
             {
                 "spd": 140
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 4.5,
@@ -13152,6 +14256,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 3.5,
@@ -13186,6 +14293,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 7,
@@ -13221,6 +14331,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 0.3,
@@ -13256,6 +14369,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 150
             }
         ],
         "height": 1.7,
@@ -13290,6 +14406,9 @@ const pokemons = [
             },
             {
                 "spd": 20
+            },
+            {
+                "spe": 150
             }
         ],
         "height": 1.7,
@@ -13324,6 +14443,9 @@ const pokemons = [
             },
             {
                 "spd": 160
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 1.7,
@@ -13358,6 +14480,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 180
             }
         ],
         "height": 1.7,
@@ -13393,6 +14518,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 31
             }
         ],
         "height": 0.4,
@@ -13428,6 +14556,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 36
             }
         ],
         "height": 1.1,
@@ -13463,6 +14594,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 56
             }
         ],
         "height": 2.2,
@@ -13499,6 +14633,9 @@ const pokemons = [
             },
             {
                 "spd": 25
+            },
+            {
+                "spe": 20
             }
         ],
         "height": 0.5,
@@ -13534,6 +14671,9 @@ const pokemons = [
             },
             {
                 "spd": 44
+            },
+            {
+                "spe": 61
             }
         ],
         "height": 0.5,
@@ -13569,6 +14709,9 @@ const pokemons = [
             },
             {
                 "spd": 52
+            },
+            {
+                "spe": 81
             }
         ],
         "height": 0.9,
@@ -13605,6 +14748,9 @@ const pokemons = [
             },
             {
                 "spd": 71
+            },
+            {
+                "spe": 108
             }
         ],
         "height": 1.2,
@@ -13641,6 +14787,9 @@ const pokemons = [
             },
             {
                 "spd": 56
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 0.4,
@@ -13676,6 +14825,9 @@ const pokemons = [
             },
             {
                 "spd": 76
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 0.8,
@@ -13711,6 +14863,9 @@ const pokemons = [
             },
             {
                 "spd": 101
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 1.7,
@@ -13746,6 +14901,9 @@ const pokemons = [
             },
             {
                 "spd": 30
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.3,
@@ -13782,6 +14940,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 0.6,
@@ -13818,6 +14979,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.2,
@@ -13855,6 +15019,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 31
             }
         ],
         "height": 0.5,
@@ -13890,6 +15057,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 0.6,
@@ -13925,6 +15095,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 1,
@@ -13961,6 +15134,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 71
             }
         ],
         "height": 1,
@@ -13997,6 +15173,9 @@ const pokemons = [
             },
             {
                 "spd": 41
+            },
+            {
+                "spe": 25
             }
         ],
         "height": 0.3,
@@ -14032,6 +15211,9 @@ const pokemons = [
             },
             {
                 "spd": 51
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 1,
@@ -14068,6 +15250,9 @@ const pokemons = [
             },
             {
                 "spd": 34
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 0.5,
@@ -14104,6 +15289,9 @@ const pokemons = [
             },
             {
                 "spd": 49
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.9,
@@ -14140,6 +15328,9 @@ const pokemons = [
             },
             {
                 "spd": 79
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 1.4,
@@ -14176,6 +15367,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 0.2,
@@ -14213,6 +15407,9 @@ const pokemons = [
             },
             {
                 "spd": 105
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 0.9,
@@ -14249,6 +15446,9 @@ const pokemons = [
             },
             {
                 "spd": 30
+            },
+            {
+                "spe": 58
             }
         ],
         "height": 0.9,
@@ -14284,6 +15484,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 58
             }
         ],
         "height": 1.6,
@@ -14319,6 +15522,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 0.8,
@@ -14355,6 +15561,9 @@ const pokemons = [
             },
             {
                 "spd": 88
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 0.5,
@@ -14391,6 +15600,9 @@ const pokemons = [
             },
             {
                 "spd": 138
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 1.3,
@@ -14427,6 +15639,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 36
             }
         ],
         "height": 0.2,
@@ -14462,6 +15677,9 @@ const pokemons = [
             },
             {
                 "spd": 105
+            },
+            {
+                "spe": 36
             }
         ],
         "height": 0.5,
@@ -14498,6 +15716,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 36
             }
         ],
         "height": 0.5,
@@ -14534,6 +15755,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 36
             }
         ],
         "height": 0.5,
@@ -14570,6 +15794,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 66
             }
         ],
         "height": 0.9,
@@ -14606,6 +15833,9 @@ const pokemons = [
             },
             {
                 "spd": 42
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 0.3,
@@ -14642,6 +15872,9 @@ const pokemons = [
             },
             {
                 "spd": 102
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 1.2,
@@ -14679,6 +15912,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 0.4,
@@ -14714,6 +15950,9 @@ const pokemons = [
             },
             {
                 "spd": 30
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 0.7,
@@ -14749,6 +15988,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 115
             }
         ],
         "height": 1.1,
@@ -14784,6 +16026,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 1.6,
@@ -14819,6 +16064,9 @@ const pokemons = [
             },
             {
                 "spd": 53
+            },
+            {
+                "spe": 35
             }
         ],
         "height": 0.4,
@@ -14853,6 +16101,9 @@ const pokemons = [
             },
             {
                 "spd": 78
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 0.5,
@@ -14889,6 +16140,9 @@ const pokemons = [
             },
             {
                 "spd": 62
+            },
+            {
+                "spe": 34
             }
         ],
         "height": 0.3,
@@ -14925,6 +16179,9 @@ const pokemons = [
             },
             {
                 "spd": 82
+            },
+            {
+                "spe": 39
             }
         ],
         "height": 0.9,
@@ -14962,6 +16219,9 @@ const pokemons = [
             },
             {
                 "spd": 66
+            },
+            {
+                "spe": 115
             }
         ],
         "height": 1.2,
@@ -14998,6 +16258,9 @@ const pokemons = [
             },
             {
                 "spd": 44
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 0.4,
@@ -15035,6 +16298,9 @@ const pokemons = [
             },
             {
                 "spd": 54
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 1.2,
@@ -15072,6 +16338,9 @@ const pokemons = [
             },
             {
                 "spd": 56
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 0.4,
@@ -15108,6 +16377,9 @@ const pokemons = [
             },
             {
                 "spd": 96
+            },
+            {
+                "spe": 105
             }
         ],
         "height": 1.2,
@@ -15142,6 +16414,9 @@ const pokemons = [
             },
             {
                 "spd": 105
+            },
+            {
+                "spe": 105
             }
         ],
         "height": 0.9,
@@ -15177,6 +16452,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 0.5,
@@ -15214,6 +16492,9 @@ const pokemons = [
             },
             {
                 "spd": 52
+            },
+            {
+                "spe": 71
             }
         ],
         "height": 0.9,
@@ -15251,6 +16532,9 @@ const pokemons = [
             },
             {
                 "spd": 37
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 0.5,
@@ -15287,6 +16571,9 @@ const pokemons = [
             },
             {
                 "spd": 59
+            },
+            {
+                "spe": 112
             }
         ],
         "height": 1,
@@ -15321,6 +16608,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 0.2,
@@ -15357,6 +16647,9 @@ const pokemons = [
             },
             {
                 "spd": 41
+            },
+            {
+                "spe": 74
             }
         ],
         "height": 0.4,
@@ -15394,6 +16687,9 @@ const pokemons = [
             },
             {
                 "spd": 61
+            },
+            {
+                "spe": 84
             }
         ],
         "height": 1,
@@ -15431,6 +16727,9 @@ const pokemons = [
             },
             {
                 "spd": 86
+            },
+            {
+                "spe": 23
             }
         ],
         "height": 0.5,
@@ -15468,6 +16767,9 @@ const pokemons = [
             },
             {
                 "spd": 116
+            },
+            {
+                "spe": 33
             }
         ],
         "height": 1.3,
@@ -15505,6 +16807,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 10
             }
         ],
         "height": 0.5,
@@ -15541,6 +16846,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.6,
@@ -15576,6 +16884,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 0.8,
@@ -15613,6 +16924,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 0.6,
@@ -15649,6 +16963,9 @@ const pokemons = [
             },
             {
                 "spd": 42
+            },
+            {
+                "spe": 91
             }
         ],
         "height": 0.5,
@@ -15685,6 +17002,9 @@ const pokemons = [
             },
             {
                 "spd": 108
+            },
+            {
+                "spe": 35
             }
         ],
         "height": 1,
@@ -15721,6 +17041,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 42
             }
         ],
         "height": 0.7,
@@ -15757,6 +17080,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 82
             }
         ],
         "height": 1.4,
@@ -15793,6 +17119,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 102
             }
         ],
         "height": 1.9,
@@ -15830,6 +17159,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 5
             }
         ],
         "height": 0.6,
@@ -15866,6 +17198,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.7,
@@ -15902,6 +17237,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 1.2,
@@ -15938,6 +17276,9 @@ const pokemons = [
             },
             {
                 "spd": 42
+            },
+            {
+                "spe": 32
             }
         ],
         "height": 0.8,
@@ -15973,6 +17314,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 1.2,
@@ -16009,6 +17353,9 @@ const pokemons = [
             },
             {
                 "spd": 72
+            },
+            {
+                "spe": 47
             }
         ],
         "height": 2,
@@ -16045,6 +17392,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 0.8,
@@ -16082,6 +17432,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 1.3,
@@ -16119,6 +17472,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 0.7,
@@ -16156,6 +17512,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 1.3,
@@ -16191,6 +17550,9 @@ const pokemons = [
             },
             {
                 "spd": 72
+            },
+            {
+                "spe": 46
             }
         ],
         "height": 1.4,
@@ -16227,6 +17589,9 @@ const pokemons = [
             },
             {
                 "spd": 61
+            },
+            {
+                "spe": 66
             }
         ],
         "height": 0.4,
@@ -16263,6 +17628,9 @@ const pokemons = [
             },
             {
                 "spd": 86
+            },
+            {
+                "spe": 91
             }
         ],
         "height": 1.2,
@@ -16299,6 +17667,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 1,
@@ -16335,6 +17706,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 1,
@@ -16372,6 +17746,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 25
             }
         ],
         "height": 0.3,
@@ -16408,6 +17785,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 2.2,
@@ -16444,6 +17824,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 125
             }
         ],
         "height": 1.1,
@@ -16481,6 +17864,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 1.2,
@@ -16518,6 +17904,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 1.7,
@@ -16554,6 +17943,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 2.4,
@@ -16591,6 +17983,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 2,
@@ -16626,6 +18021,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 1.8,
@@ -16661,6 +18059,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 83
             }
         ],
         "height": 1.6,
@@ -16697,6 +18098,9 @@ const pokemons = [
             },
             {
                 "spd": 115
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 1.5,
@@ -16734,6 +18138,9 @@ const pokemons = [
             },
             {
                 "spd": 56
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 1.9,
@@ -16771,6 +18178,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 1,
@@ -16807,6 +18217,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 1,
@@ -16842,6 +18255,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 0.8,
@@ -16878,6 +18294,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 2,
@@ -16915,6 +18334,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 2.5,
@@ -16952,6 +18374,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 0.9,
@@ -16987,6 +18412,9 @@ const pokemons = [
             },
             {
                 "spd": 115
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 1.6,
@@ -17024,6 +18452,9 @@ const pokemons = [
             },
             {
                 "spd": 150
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 1.4,
@@ -17059,6 +18490,9 @@ const pokemons = [
             },
             {
                 "spd": 135
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 2.2,
@@ -17094,6 +18528,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 110
             }
         ],
         "height": 1.3,
@@ -17129,6 +18566,9 @@ const pokemons = [
             },
             {
                 "spd": 77
+            },
+            {
+                "spe": 91
             }
         ],
         "height": 0.3,
@@ -17164,6 +18604,9 @@ const pokemons = [
             },
             {
                 "spd": 107
+            },
+            {
+                "spe": 86
             }
         ],
         "height": 0.3,
@@ -17199,6 +18642,9 @@ const pokemons = [
             },
             {
                 "spd": 107
+            },
+            {
+                "spe": 86
             }
         ],
         "height": 0.3,
@@ -17234,6 +18680,9 @@ const pokemons = [
             },
             {
                 "spd": 107
+            },
+            {
+                "spe": 86
             }
         ],
         "height": 0.3,
@@ -17269,6 +18718,9 @@ const pokemons = [
             },
             {
                 "spd": 107
+            },
+            {
+                "spe": 86
             }
         ],
         "height": 0.3,
@@ -17304,6 +18756,9 @@ const pokemons = [
             },
             {
                 "spd": 107
+            },
+            {
+                "spe": 86
             }
         ],
         "height": 0.3,
@@ -17341,6 +18796,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 1,
@@ -17376,6 +18834,9 @@ const pokemons = [
             },
             {
                 "spd": 130
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 0.3,
@@ -17410,6 +18871,9 @@ const pokemons = [
             },
             {
                 "spd": 105
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 0.3,
@@ -17444,6 +18908,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 115
             }
         ],
         "height": 0.3,
@@ -17479,6 +18946,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 5.4,
@@ -17515,6 +18985,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 4.2,
@@ -17551,6 +19024,9 @@ const pokemons = [
             },
             {
                 "spd": 106
+            },
+            {
+                "spe": 77
             }
         ],
         "height": 1.7,
@@ -17586,6 +19062,9 @@ const pokemons = [
             },
             {
                 "spd": 110
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 3.7,
@@ -17621,6 +19100,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 4.5,
@@ -17656,6 +19138,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 6.9,
@@ -17691,6 +19176,9 @@ const pokemons = [
             },
             {
                 "spd": 130
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 1.5,
@@ -17725,6 +19213,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 0.4,
@@ -17761,6 +19252,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 1.5,
@@ -17796,6 +19290,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 0.3,
@@ -17830,6 +19327,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 125
             }
         ],
         "height": 1.5,
@@ -17864,6 +19364,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 0.2,
@@ -17898,6 +19401,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 127
             }
         ],
         "height": 0.4,
@@ -17933,6 +19439,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 120
             }
         ],
         "height": 3.2,
@@ -17967,6 +19476,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 120
             }
         ],
         "height": 3.2,
@@ -18001,6 +19513,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 120
             }
         ],
         "height": 3.2,
@@ -18035,6 +19550,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 120
             }
         ],
         "height": 3.2,
@@ -18069,6 +19587,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 120
             }
         ],
         "height": 3.2,
@@ -18103,6 +19624,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 120
             }
         ],
         "height": 3.2,
@@ -18137,6 +19661,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 120
             }
         ],
         "height": 3.2,
@@ -18171,6 +19698,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 120
             }
         ],
         "height": 3.2,
@@ -18205,6 +19735,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 120
             }
         ],
         "height": 3.2,
@@ -18239,6 +19772,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 120
             }
         ],
         "height": 3.2,
@@ -18273,6 +19809,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 120
             }
         ],
         "height": 3.2,
@@ -18307,6 +19846,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 120
             }
         ],
         "height": 3.2,
@@ -18341,6 +19883,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 120
             }
         ],
         "height": 3.2,
@@ -18375,6 +19920,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 120
             }
         ],
         "height": 3.2,
@@ -18409,6 +19957,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 120
             }
         ],
         "height": 3.2,
@@ -18443,6 +19994,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 120
             }
         ],
         "height": 3.2,
@@ -18477,6 +20031,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 120
             }
         ],
         "height": 3.2,
@@ -18511,6 +20068,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 0.4,
@@ -18547,6 +20107,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 63
             }
         ],
         "height": 0.6,
@@ -18582,6 +20145,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 83
             }
         ],
         "height": 0.8,
@@ -18617,6 +20183,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 113
             }
         ],
         "height": 3.3,
@@ -18652,6 +20221,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 0.5,
@@ -18687,6 +20259,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 1,
@@ -18723,6 +20298,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 1.1,
@@ -18759,6 +20337,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 0.2,
@@ -18794,6 +20375,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 1.6,
@@ -18830,6 +20414,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 0.5,
@@ -18865,6 +20452,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.8,
@@ -18900,6 +20490,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 1.5,
@@ -18936,6 +20529,9 @@ const pokemons = [
             },
             {
                 "spd": 39
+            },
+            {
+                "spe": 42
             }
         ],
         "height": 0.5,
@@ -18972,6 +20568,9 @@ const pokemons = [
             },
             {
                 "spd": 69
+            },
+            {
+                "spe": 77
             }
         ],
         "height": 1.1,
@@ -19008,6 +20607,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 0.4,
@@ -19044,6 +20646,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.9,
@@ -19080,6 +20685,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 1.2,
@@ -19116,6 +20724,9 @@ const pokemons = [
             },
             {
                 "spd": 37
+            },
+            {
+                "spe": 66
             }
         ],
         "height": 0.4,
@@ -19152,6 +20763,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 120
             }
         ],
         "height": 0.7,
@@ -19188,6 +20802,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 106
             }
         ],
         "height": 1.1,
@@ -19223,6 +20840,9 @@ const pokemons = [
             },
             {
                 "spd": 48
+            },
+            {
+                "spe": 64
             }
         ],
         "height": 0.6,
@@ -19258,6 +20878,9 @@ const pokemons = [
             },
             {
                 "spd": 63
+            },
+            {
+                "spe": 101
             }
         ],
         "height": 1.1,
@@ -19293,6 +20916,9 @@ const pokemons = [
             },
             {
                 "spd": 48
+            },
+            {
+                "spe": 64
             }
         ],
         "height": 0.6,
@@ -19328,6 +20954,9 @@ const pokemons = [
             },
             {
                 "spd": 63
+            },
+            {
+                "spe": 101
             }
         ],
         "height": 1,
@@ -19363,6 +20992,9 @@ const pokemons = [
             },
             {
                 "spd": 48
+            },
+            {
+                "spe": 64
             }
         ],
         "height": 0.6,
@@ -19398,6 +21030,9 @@ const pokemons = [
             },
             {
                 "spd": 63
+            },
+            {
+                "spe": 101
             }
         ],
         "height": 1,
@@ -19434,6 +21069,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 24
             }
         ],
         "height": 0.6,
@@ -19470,6 +21108,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 29
             }
         ],
         "height": 1.1,
@@ -19506,6 +21147,9 @@ const pokemons = [
             },
             {
                 "spd": 30
+            },
+            {
+                "spe": 43
             }
         ],
         "height": 0.3,
@@ -19543,6 +21187,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 0.4,
@@ -19579,6 +21226,9 @@ const pokemons = [
             },
             {
                 "spd": 42
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 0.6,
@@ -19616,6 +21266,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 93
             }
         ],
         "height": 1.2,
@@ -19653,6 +21306,9 @@ const pokemons = [
             },
             {
                 "spd": 32
+            },
+            {
+                "spe": 76
             }
         ],
         "height": 0.8,
@@ -19689,6 +21345,9 @@ const pokemons = [
             },
             {
                 "spd": 63
+            },
+            {
+                "spe": 116
             }
         ],
         "height": 1.6,
@@ -19724,6 +21383,9 @@ const pokemons = [
             },
             {
                 "spd": 25
+            },
+            {
+                "spe": 15
             }
         ],
         "height": 0.4,
@@ -19759,6 +21421,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 20
             }
         ],
         "height": 0.9,
@@ -19794,6 +21459,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 25
             }
         ],
         "height": 1.7,
@@ -19830,6 +21498,9 @@ const pokemons = [
             },
             {
                 "spd": 43
+            },
+            {
+                "spe": 72
             }
         ],
         "height": 0.4,
@@ -19867,6 +21538,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 114
             }
         ],
         "height": 0.9,
@@ -19904,6 +21578,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 68
             }
         ],
         "height": 0.3,
@@ -19940,6 +21617,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 115
             }
         ],
         "height": 1,
@@ -19976,6 +21656,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 88
             }
         ],
         "height": 0.7,
@@ -20013,6 +21696,9 @@ const pokemons = [
             },
             {
                 "spd": 86
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 1.1,
@@ -20049,6 +21735,9 @@ const pokemons = [
             },
             {
                 "spd": 35
+            },
+            {
+                "spe": 35
             }
         ],
         "height": 0.6,
@@ -20085,6 +21774,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 1.2,
@@ -20121,6 +21813,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 1.4,
@@ -20157,6 +21852,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 64
             }
         ],
         "height": 0.5,
@@ -20193,6 +21891,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 69
             }
         ],
         "height": 0.8,
@@ -20230,6 +21931,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 74
             }
         ],
         "height": 1.5,
@@ -20267,6 +21971,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 1.3,
@@ -20303,6 +22010,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 1.4,
@@ -20339,6 +22049,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 0.8,
@@ -20375,6 +22088,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 42
             }
         ],
         "height": 0.3,
@@ -20412,6 +22128,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 42
             }
         ],
         "height": 0.5,
@@ -20449,6 +22168,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 92
             }
         ],
         "height": 1.2,
@@ -20486,6 +22208,9 @@ const pokemons = [
             },
             {
                 "spd": 39
+            },
+            {
+                "spe": 57
             }
         ],
         "height": 0.4,
@@ -20523,6 +22248,9 @@ const pokemons = [
             },
             {
                 "spd": 79
+            },
+            {
+                "spe": 47
             }
         ],
         "height": 1.2,
@@ -20560,6 +22288,9 @@ const pokemons = [
             },
             {
                 "spd": 69
+            },
+            {
+                "spe": 112
             }
         ],
         "height": 2.5,
@@ -20597,6 +22328,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 66
             }
         ],
         "height": 0.3,
@@ -20633,6 +22367,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 116
             }
         ],
         "height": 0.7,
@@ -20669,6 +22406,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 0.5,
@@ -20705,6 +22445,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 1.1,
@@ -20741,6 +22484,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 1.7,
@@ -20777,6 +22523,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 98
             }
         ],
         "height": 1,
@@ -20814,6 +22563,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 98
             }
         ],
         "height": 1,
@@ -20850,6 +22602,9 @@ const pokemons = [
             },
             {
                 "spd": 35
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 0.7,
@@ -20887,6 +22642,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 74
             }
         ],
         "height": 1,
@@ -20924,6 +22682,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 92
             }
         ],
         "height": 1.5,
@@ -20960,6 +22721,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 0.6,
@@ -20995,6 +22759,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 1.3,
@@ -21031,6 +22798,9 @@ const pokemons = [
             },
             {
                 "spd": 67
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 1,
@@ -21067,6 +22837,9 @@ const pokemons = [
             },
             {
                 "spd": 35
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 0.3,
@@ -21104,6 +22877,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 1.4,
@@ -21141,6 +22917,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 48
             }
         ],
         "height": 0.6,
@@ -21178,6 +22957,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 0.5,
@@ -21214,6 +22996,9 @@ const pokemons = [
             },
             {
                 "spd": 115
+            },
+            {
+                "spe": 58
             }
         ],
         "height": 1.1,
@@ -21251,6 +23036,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 97
             }
         ],
         "height": 1.4,
@@ -21286,6 +23074,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 0.5,
@@ -21320,6 +23111,9 @@ const pokemons = [
             },
             {
                 "spd": 105
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 1.7,
@@ -21356,6 +23150,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 22
             }
         ],
         "height": 0.7,
@@ -21393,6 +23190,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 32
             }
         ],
         "height": 1.2,
@@ -21428,6 +23228,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 0.5,
@@ -21463,6 +23266,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 110
             }
         ],
         "height": 1.4,
@@ -21500,6 +23306,9 @@ const pokemons = [
             },
             {
                 "spd": 62
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 0.6,
@@ -21536,6 +23345,9 @@ const pokemons = [
             },
             {
                 "spd": 82
+            },
+            {
+                "spe": 75
             }
         ],
         "height": 1.9,
@@ -21572,6 +23384,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 1,
@@ -21606,6 +23421,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 0.7,
@@ -21640,6 +23458,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 105
             }
         ],
         "height": 1.6,
@@ -21676,6 +23497,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 75
             }
         ],
         "height": 0.4,
@@ -21712,6 +23536,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 115
             }
         ],
         "height": 0.5,
@@ -21747,6 +23574,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 0.4,
@@ -21782,6 +23612,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 0.7,
@@ -21817,6 +23650,9 @@ const pokemons = [
             },
             {
                 "spd": 110
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 1.5,
@@ -21853,6 +23689,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 20
             }
         ],
         "height": 0.3,
@@ -21889,6 +23728,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 0.6,
@@ -21925,6 +23767,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 1,
@@ -21961,6 +23806,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.7,
@@ -21997,6 +23845,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 0.5,
@@ -22034,6 +23885,9 @@ const pokemons = [
             },
             {
                 "spd": 63
+            },
+            {
+                "spe": 98
             }
         ],
         "height": 1.3,
@@ -22070,6 +23924,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 44
             }
         ],
         "height": 0.4,
@@ -22105,6 +23962,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 59
             }
         ],
         "height": 1.1,
@@ -22140,6 +24000,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 79
             }
         ],
         "height": 1.3,
@@ -22176,6 +24039,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 75
             }
         ],
         "height": 0.6,
@@ -22213,6 +24079,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 1.9,
@@ -22249,6 +24118,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 103
             }
         ],
         "height": 0.4,
@@ -22286,6 +24158,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.5,
@@ -22322,6 +24197,9 @@ const pokemons = [
             },
             {
                 "spd": 105
+            },
+            {
+                "spe": 20
             }
         ],
         "height": 1,
@@ -22359,6 +24237,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 1.9,
@@ -22394,6 +24275,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 15
             }
         ],
         "height": 0.2,
@@ -22430,6 +24314,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 0.6,
@@ -22467,6 +24354,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 1.2,
@@ -22504,6 +24394,9 @@ const pokemons = [
             },
             {
                 "spd": 105
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 2.2,
@@ -22541,6 +24434,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 1.2,
@@ -22577,6 +24473,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 0.1,
@@ -22614,6 +24513,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 108
             }
         ],
         "height": 0.8,
@@ -22649,6 +24551,9 @@ const pokemons = [
             },
             {
                 "spd": 86
+            },
+            {
+                "spe": 10
             }
         ],
         "height": 0.6,
@@ -22684,6 +24589,9 @@ const pokemons = [
             },
             {
                 "spd": 116
+            },
+            {
+                "spe": 20
             }
         ],
         "height": 1,
@@ -22721,6 +24629,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 0.3,
@@ -22756,6 +24667,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.7,
@@ -22793,6 +24707,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 0.6,
@@ -22829,6 +24746,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 0.6,
@@ -22865,6 +24785,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 0.6,
@@ -22899,6 +24822,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.2,
@@ -22933,6 +24859,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 1.2,
@@ -22967,6 +24896,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 2.1,
@@ -23003,6 +24935,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 0.5,
@@ -23039,6 +24974,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 1,
@@ -23075,6 +25013,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 20
             }
         ],
         "height": 0.3,
@@ -23112,6 +25053,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 0.6,
@@ -23149,6 +25093,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 1,
@@ -23186,6 +25133,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 1,
@@ -23222,6 +25172,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 57
             }
         ],
         "height": 0.6,
@@ -23258,6 +25211,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 67
             }
         ],
         "height": 1,
@@ -23294,6 +25250,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 97
             }
         ],
         "height": 1.8,
@@ -23329,6 +25288,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 0.5,
@@ -23364,6 +25326,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 2.6,
@@ -23398,6 +25363,9 @@ const pokemons = [
             },
             {
                 "spd": 135
+            },
+            {
+                "spe": 105
             }
         ],
         "height": 1.1,
@@ -23434,6 +25402,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 25
             }
         ],
         "height": 0.4,
@@ -23470,6 +25441,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 145
             }
         ],
         "height": 0.8,
@@ -23506,6 +25480,9 @@ const pokemons = [
             },
             {
                 "spd": 99
+            },
+            {
+                "spe": 32
             }
         ],
         "height": 0.7,
@@ -23543,6 +25520,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 0.9,
@@ -23579,6 +25559,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 1.3,
@@ -23616,6 +25599,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 105
             }
         ],
         "height": 1.4,
@@ -23652,6 +25638,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 48
             }
         ],
         "height": 1.6,
@@ -23688,6 +25677,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 35
             }
         ],
         "height": 1,
@@ -23725,6 +25717,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 2.8,
@@ -23762,6 +25757,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.5,
@@ -23799,6 +25797,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 1.6,
@@ -23836,6 +25837,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 1.6,
@@ -23872,6 +25876,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.5,
@@ -23909,6 +25916,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 1.5,
@@ -23946,6 +25956,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.5,
@@ -23983,6 +25996,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 0.9,
@@ -24019,6 +26035,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 1.2,
@@ -24056,6 +26075,9 @@ const pokemons = [
             },
             {
                 "spd": 66
+            },
+            {
+                "spe": 65
             }
         ],
         "height": 1.4,
@@ -24092,6 +26114,9 @@ const pokemons = [
             },
             {
                 "spd": 48
+            },
+            {
+                "spe": 109
             }
         ],
         "height": 0.3,
@@ -24127,6 +26152,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 38
             }
         ],
         "height": 0.8,
@@ -24162,6 +26190,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 58
             }
         ],
         "height": 1.4,
@@ -24197,6 +26228,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 98
             }
         ],
         "height": 1.8,
@@ -24233,6 +26267,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 1.1,
@@ -24269,6 +26306,9 @@ const pokemons = [
             },
             {
                 "spd": 105
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.6,
@@ -24304,6 +26344,9 @@ const pokemons = [
             },
             {
                 "spd": 72
+            },
+            {
+                "spe": 108
             }
         ],
         "height": 2.1,
@@ -24339,6 +26382,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 108
             }
         ],
         "height": 1.9,
@@ -24376,6 +26422,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 105
             }
         ],
         "height": 1.3,
@@ -24410,6 +26459,9 @@ const pokemons = [
             },
             {
                 "spd": 129
+            },
+            {
+                "spe": 108
             }
         ],
         "height": 2,
@@ -24446,6 +26498,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 111
             }
         ],
         "height": 1.5,
@@ -24480,6 +26535,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 121
             }
         ],
         "height": 1.4,
@@ -24515,6 +26573,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 111
             }
         ],
         "height": 1.5,
@@ -24550,6 +26611,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 101
             }
         ],
         "height": 3,
@@ -24585,6 +26649,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 3.2,
@@ -24620,6 +26687,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 2.9,
@@ -24656,6 +26726,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 101
             }
         ],
         "height": 1.5,
@@ -24691,6 +26764,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 91
             }
         ],
         "height": 1.3,
@@ -24726,6 +26802,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 3,
@@ -24761,6 +26840,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 3.3,
@@ -24796,6 +26878,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 3.6,
@@ -24831,6 +26916,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 108
             }
         ],
         "height": 1.4,
@@ -24866,6 +26954,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 108
             }
         ],
         "height": 1.4,
@@ -24901,6 +26992,9 @@ const pokemons = [
             },
             {
                 "spd": 128
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 0.6,
@@ -24936,6 +27030,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 99
             }
         ],
         "height": 1.5,
@@ -24971,6 +27068,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 99
             }
         ],
         "height": 1.5,
@@ -25006,6 +27106,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 99
             }
         ],
         "height": 1.5,
@@ -25041,6 +27144,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 99
             }
         ],
         "height": 1.5,
@@ -25076,6 +27182,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 99
             }
         ],
         "height": 1.5,
@@ -25113,6 +27222,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 120
             }
         ],
         "height": 1.5,
@@ -25149,6 +27261,9 @@ const pokemons = [
             },
             {
                 "spd": 35
+            },
+            {
+                "spe": 35
             }
         ],
         "height": 0.8,
@@ -25185,6 +27300,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 1.5,
@@ -25221,6 +27339,9 @@ const pokemons = [
             },
             {
                 "spd": 85
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 1.6,
@@ -25256,6 +27377,9 @@ const pokemons = [
             },
             {
                 "spd": 30
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 0.7,
@@ -25292,6 +27416,9 @@ const pokemons = [
             },
             {
                 "spd": 64
+            },
+            {
+                "spe": 43
             }
         ],
         "height": 0.5,
@@ -25327,6 +27454,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 1,
@@ -25363,6 +27493,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 1.7,
@@ -25400,6 +27533,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 0.9,
@@ -25437,6 +27573,9 @@ const pokemons = [
             },
             {
                 "spd": 120
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.6,
@@ -25474,6 +27613,9 @@ const pokemons = [
             },
             {
                 "spd": 30
+            },
+            {
+                "spe": 20
             }
         ],
         "height": 0.4,
@@ -25511,6 +27653,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 35
             }
         ],
         "height": 1,
@@ -25548,6 +27693,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 1.4,
@@ -25585,6 +27733,9 @@ const pokemons = [
             },
             {
                 "spd": 65
+            },
+            {
+                "spe": 90
             }
         ],
         "height": 1,
@@ -25621,6 +27772,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 105
             }
         ],
         "height": 1.7,
@@ -25657,6 +27811,9 @@ const pokemons = [
             },
             {
                 "spd": 40
+            },
+            {
+                "spe": 15
             }
         ],
         "height": 1.2,
@@ -25693,6 +27850,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 58
             }
         ],
         "height": 1,
@@ -25729,6 +27889,9 @@ const pokemons = [
             },
             {
                 "spd": 80
+            },
+            {
+                "spe": 30
             }
         ],
         "height": 1.6,
@@ -25766,6 +27929,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 0.3,
@@ -25803,6 +27969,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 1,
@@ -25840,6 +28009,9 @@ const pokemons = [
             },
             {
                 "spd": 62
+            },
+            {
+                "spe": 60
             }
         ],
         "height": 0.8,
@@ -25877,6 +28049,9 @@ const pokemons = [
             },
             {
                 "spd": 35
+            },
+            {
+                "spe": 75
             }
         ],
         "height": 1.4,
@@ -25914,6 +28089,9 @@ const pokemons = [
             },
             {
                 "spd": 60
+            },
+            {
+                "spe": 100
             }
         ],
         "height": 1.8,
@@ -25951,6 +28129,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 45
             }
         ],
         "height": 1.1,
@@ -25987,6 +28168,9 @@ const pokemons = [
             },
             {
                 "spd": 95
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 1.7,
@@ -26024,6 +28208,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 25
             }
         ],
         "height": 0.9,
@@ -26060,6 +28247,9 @@ const pokemons = [
             },
             {
                 "spd": 100
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 1.2,
@@ -26095,6 +28285,9 @@ const pokemons = [
             },
             {
                 "spd": 105
+            },
+            {
+                "spe": 78
             }
         ],
         "height": 1.6,
@@ -26131,6 +28324,9 @@ const pokemons = [
             },
             {
                 "spd": 25
+            },
+            {
+                "spe": 40
             }
         ],
         "height": 0.3,
@@ -26167,6 +28363,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 1.5,
@@ -26202,6 +28401,9 @@ const pokemons = [
             },
             {
                 "spd": 35
+            },
+            {
+                "spe": 80
             }
         ],
         "height": 1.3,
@@ -26237,6 +28439,9 @@ const pokemons = [
             },
             {
                 "spd": 55
+            },
+            {
+                "spe": 95
             }
         ],
         "height": 1.6,
@@ -26272,6 +28477,9 @@ const pokemons = [
             },
             {
                 "spd": 75
+            },
+            {
+                "spe": 110
             }
         ],
         "height": 1.5,
@@ -26309,6 +28517,9 @@ const pokemons = [
             },
             {
                 "spd": 45
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 8.8,
@@ -26346,6 +28557,9 @@ const pokemons = [
             },
             {
                 "spd": 90
+            },
+            {
+                "spe": 42
             }
         ],
         "height": 1,
@@ -26382,6 +28596,9 @@ const pokemons = [
             },
             {
                 "spd": 115
+            },
+            {
+                "spe": 67
             }
         ],
         "height": 1.6,
@@ -26418,6 +28635,9 @@ const pokemons = [
             },
             {
                 "spd": 25
+            },
+            {
+                "spe": 50
             }
         ],
         "height": 0.4,
@@ -26454,6 +28674,9 @@ const pokemons = [
             },
             {
                 "spd": 50
+            },
+            {
+                "spe": 75
             }
         ],
         "height": 1.3,
@@ -26488,6 +28711,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 0.3,
@@ -26520,6 +28746,9 @@ const pokemons = [
             },
             {
                 "spd": 77
+            },
+            {
+                "spe": 128
             }
         ],
         "height": 0.6,
@@ -26553,6 +28782,9 @@ const pokemons = [
             },
             {
                 "spd": 105
+            },
+            {
+                "spe": 55
             }
         ],
         "height": 1.3,
@@ -26586,6 +28818,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 0.3,
@@ -26618,6 +28853,9 @@ const pokemons = [
             },
             {
                 "spd": 78
+            },
+            {
+                "spe": 85
             }
         ],
         "height": 0.5,
@@ -26650,6 +28888,9 @@ const pokemons = [
             },
             {
                 "spd": 70
+            },
+            {
+                "spe": 70
             }
         ],
         "height": 0.3,
@@ -26680,8 +28921,8 @@ function get_stat_viability_class(value){
 function get_stats_slider(key, value){
 	return `
 	<div class="card-stats-group">
-		<p style="width: 25px;">${key.padEnd(3)}:</p>
-		<p>${value}</p>
+		<p style="width: 25px;">${key}:</p>
+		<p style="width: 25px;">${value}</p>
 		<div class="stat ${get_stat_viability_class(value)}" style="width: ${(120 * value) / 255}px;"></div>
 	</div>`
 }
