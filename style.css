@@ -10,9 +10,14 @@ body {
 }
 
 .main-header {
-	background-color: rgba(0, 0, 0, 0.1);
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding: 10px 20px 10px 20px;
+	background-color: #151515;
+	background-image: conic-gradient(
+		#000000 0.25turn, transparent 0 0.5turn, 
+		#000000 0 0.75turn, transparent 0
+	);
+	background-size: 60px 60px;
+	color: #e1e1e1;
 }
 
 .title {
@@ -30,37 +35,92 @@ body {
 }
 
 .card-wrapper {
+	position: relative;
+	width: 322px;
+	height: 220px;
 	margin: 0px;
 	padding: 0px;
-	height: 220px;
+	transition: transform 0.8s;
+	transform-style: preserve-3d;
+	cursor: pointer;
+}
+
+.card-wrapper.flipped {
+	transform: perspective(800px) rotateY(180deg);
 }
 
 .card-dex-no {
 	z-index: 1;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
-	top: 40px;
-	left: 278px;
+	position: absolute;
+	top: -5px;
+	right: 5px;
 	background-color: #3148af;
 	width: 25px;
 	height: 12px;
 	padding: 5px;
 	border-radius: 10px;
+	backface-visibility: hidden;
 }
 
 .card {
+	position: absolute;
+	top: 0;
+	left: 0;
+	backface-visibility: hidden;
 	display: grid;
 	width: 300px;
 	height: 190px;
 	border: 1px solid #DfDfAf70;
 	border-radius: 5px;
+	background-color: #1a1a1a;
 	box-shadow: 0 2px 4px rgba(255, 255, 255, 0.4);
 	grid-template-areas: "gif name-type"
 						"sdata stats";
 	grid-template-columns: 100px 1fr;
-	grid-template-rows: 100px 1fr;
+	grid-template-rows: 90px 1fr;
 	padding: 10px;
+}
+
+.card::before {
+	content: "";
+	position: absolute;
+	inset: 0;
+	border-radius: inherit;
+	background: radial-gradient(
+		600px circle at var(--mouse-x) var(--mouse-y),
+		rgba(255, 255, 255, 0.05),
+		transparent 40%
+	);
+	z-index: 1;
+	opacity: 0;
+	transition: opacity 500ms;
+	pointer-events: none;
+}
+
+#card-container:hover .card::before {
+	opacity: 1;
+}
+
+.card.back {
+	display: grid;
+	grid-template-areas: "name-type gif"
+						"entry entry";
+	grid-template-columns: 1fr 100px;
+	grid-template-rows: 60px 1fr;
+	transform: rotateY(180deg);
+}
+
+.card-species {
+	color: #b5b58b;
+	margin: 0px;
+	font-size: small;
+}
+.card-description {
+	color: #e3e3e3;
+	font-size: 14px;
+	margin: 20px;
 }
 
 .card-gif-container {
@@ -76,6 +136,13 @@ body {
 	object-fit: contain;
 	image-rendering: pixelated;
 	filter: drop-shadow(2px 2px 1px #DfDfAf50);
+}
+
+.card-gif-floating {
+	float: right; 
+	width: 100px; 
+	height: 40px; 
+	shape-outside: inset(0px);
 }
 
 .card-name-type
