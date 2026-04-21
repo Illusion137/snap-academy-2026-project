@@ -22,6 +22,20 @@ I've always had a love for Pokemon, so naturally a catalog dedicated to my favor
      - Special Attack
      - Special Defence
      - Speed
+ - Complex sorting from multiple selectable peieces of each pokemons data:
+   -  Reverse
+   -  Dex-Number
+   -  Name
+   -  Stats
+     - HP
+     - Attack
+     - Defence
+     - Special Attack
+     - Special Defence
+     - Speed
+   - Physical Characteristics
+     - Height
+     - Weight
  - Desktop + Mobile responsiveness
 
 ## Dataset
@@ -30,7 +44,8 @@ I've always had a love for Pokemon, so naturally a catalog dedicated to my favor
 
 ## References (Excluding Dataset)
  - [Mozilla](https://developer.mozilla.org/en-US/docs/Web)
- - [Claude Code](https://claude.ai/); used for accelerating the creation of strictly the UI(`HTML` + `CSS`) of the filters popup. Not to fully create it either as it required modifications. (Used as allowed to in the requirements)
+ - [Bootstrap Icons](https://icons.getbootstrap.com/); used for the sort and filters icons. Not using the Bootstrap framework, just copied svgs form bootstrap icons.
+ - [Claude Code](https://claude.ai/); used for accelerating the creation of strictly the UI(`HTML` + `CSS`) of the filters popup and planning the sort dropdown. Not to fully create it either as it required modifications. (Used as allowed to in the requirements). Every line of HTML and CSS written is fully understood as to what it does.
  - ![Battle Cats Filters UI](https://i.redd.it/4934yhq2w7of1.jpeg); another one of my favorite games that I decided to use slightly as a reference for the filters popup.
 
 ## Final Thoughts
