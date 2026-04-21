@@ -1,3 +1,43 @@
+# Pokemon Black & White Pokedex Catalog
+I've always had a love for Pokemon, so naturally a catalog dedicated to my favorite Pokemon generation is what I immediately went for.
+
+## Hosting
+[Project](https://sumii.me/pokemon.html) hosted at https://sumii.me/pokemon.html through GitHub pages.
+
+## Features
+ - 688 Pokemon to explore through the catalog.
+ - See each of their stats, types, height, weight, competitive formats, evolution lines, species, and Pokedex entries.
+ - Complex filtering to find whatever pokemon based off of:
+   - Name
+   - Types (OR/AND joined)
+   - Species
+   - Description
+   - Physical Characteristics
+     - Height
+     - Weight
+   - Stats
+     - HP
+     - Attack
+     - Defence
+     - Special Attack
+     - Special Defence
+     - Speed
+ - Desktop + Mobile responsiveness
+
+## Dataset
+ - [Smogon University](https://www.smogon.com/dex/bw/pokemon/); used for most of the pokemon data. From the name, types, GIFs, height, weight, formats, stats, etc...
+ - [Purukitto/pokemon-data](https://github.com/Purukitto/pokemon-data.json); used for species descriptions, Pokedex entries, and evolution sprites. Evolution sprites were better gathered from here rather than the large sprite sheet hosted by `Smogon University`.
+
+## References (Excluding Dataset)
+ - [Mozilla](https://developer.mozilla.org/en-US/docs/Web)
+ - [Claude Code](https://claude.ai/); used for accelerating the creation of strictly the UI(`HTML` + `CSS`) of the filters popup. Not to fully create it either as it required modifications. (Used as allowed to in the requirements)
+ - ![Battle Cats Filters UI](https://i.redd.it/4934yhq2w7of1.jpeg); another one of my favorite games that I decided to use slightly as a reference for the filters popup.
+
+## Final Thoughts
+For the time put into this short project, I'm really satisfied as to how it turned out. Not often I do WebDev, but with my experience with JavaScript from Node.Js it was just a matter of reviewing things like event-listeners and how and when the DOM loads.
+
+> [!NOTE]
+> Below is the SEA Data Catalog Project Template README.
 # SEA Stage 2 - Data Catalog Project
 
 This repository contains the instructions, requirements, and starter code for Stage Two of the Snap Engineering Academy application process.
